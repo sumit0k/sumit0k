@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/sumitkumar1209?style=social) ![GitHub followers](https://img.shields.io/github/followers/sumitkumar1209?style=social) ![GitHub closed issues] [![Visits Badge](https://badges.pufler.dev/visits/sumitkumar1209/sumitkumar1209)](https://github.com/sumitkumar1209) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/sumitkumar1209?style=social)](https://twitter.com/sumitkumar1209) [![GitHub followers](https://img.shields.io/github/followers/sumitkumar1209?style=social)](https://github.com/sumitkumar1209) [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-sumitkumar1209-blue)](https://linkedin.com/in/sumitkumar1209)
+ [![Visits Badge](https://badges.pufler.dev/visits/sumitkumar1209/sumitkumar1209)](https://github.com/sumitkumar1209) 
 
 ### Find me at
 
 #### ⁉️ StackOverflow
 <a href="https://stackexchange.com/users/5624897"><img src="https://stackexchange.com/users/flair/5624897.png" width="208" height="58" alt="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-#### 💼 LinkedIn
-<img src="https://github-readme-linkedin.vercel.app/user?username=sumitkumar1209" />
 
 #### 📝 Medium
 [![Sumit Kumar's Medium](https://github-readme-medium.vercel.app/?username=sumitkumar1209)](https://medium.com/@sumitkumar1209)
