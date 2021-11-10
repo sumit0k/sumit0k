@@ -24,7 +24,7 @@
 ## Support
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/sumitkumar1209) and add to my knowledge! 
 
-<a href="https://www.buymeacoffee.com/sumitkumar1209" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
+<a href="https://www.buymeacoffee.com/sumitkumar1209" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Book" height="40" ></a>
 
 ## Stats
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitkumar1209&count_private=true&show_icons=true&theme=dracula" alt="sumitkumar1209"/>
