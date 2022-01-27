@@ -1,16 +1,16 @@
 ### <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /> Hi there
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sumitkumar1209?style=social)](https://twitter.com/sumitkumar1209) 
-[![GitHub followers](https://img.shields.io/github/followers/sumitkumar1209?style=social)](https://github.com/sumitkumar1209) 
-[![Linkedin: Sumit Kumar](https://img.shields.io/badge/-Sumit%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumitkumar1209/)](https://www.linkedin.com/in/sumitkumar1209/)
- [![Visits Badge](https://badges.pufler.dev/visits/sumitkumar1209/sumitkumar1209)](https://github.com/sumitkumar1209) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/sumit0k?style=social)](https://twitter.com/sumit0k) 
+[![GitHub followers](https://img.shields.io/github/followers/sumit0k?style=social)](https://github.com/sumit0k) 
+[![Linkedin: Sumit Kumar](https://img.shields.io/badge/-Sumit%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit0k/)](https://www.linkedin.com/in/sumit0k/)
+ [![Visits Badge](https://badges.pufler.dev/visits/sumit0k/sumit0k)](https://github.com/sumit0k) 
 
 ### Find me at
 
-| [StackOverflow](https://stackoverflow.com/users/4453633/sumit-kumar) | [Medium](https://sumitkumar1209.medium.com/) | [Github](https://github.com/sumitkumar1209) |
+| [StackOverflow](https://stackoverflow.com/users/4453633/sumit-kumar) | [Medium](https://sumit0k.medium.com/) | [Github](https://github.com/sumit0k) |
 |-|-|-|
-| <a href="https://stackoverflow.com/users/4453633/sumit-kumar"><img src="https://stackexchange.com/users/flair/5624897.png" width="256" height="58" alt="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 	| [![Sumit Kumar's Medium](https://github-readme-medium-recent-article.vercel.app/medium/@sumitkumar1209/0)](https://github-readme-medium-recent-article.vercel.app/medium/@sumitkumar1209/0) 	| [You can create an issue <br> on my personal repo to ask me anything.](https://github.com/sumitkumar1209/sumitkumar1209/issues/new) <br> ![GitHub issues](https://img.shields.io/github/issues/sumitkumar1209/sumitkumar1209?label=questions) ![GitHub closed issues](https://img.shields.io/github/issues-closed/sumitkumar1209/sumitkumar1209?label=questions) 	|
+| <a href="https://stackoverflow.com/users/4453633/sumit-kumar"><img src="https://stackexchange.com/users/flair/5624897.png" width="256" height="58" alt="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 	| [![Sumit Kumar's Medium](https://github-readme-medium-recent-article.vercel.app/medium/@sumit0k/0)](https://github-readme-medium-recent-article.vercel.app/medium/@sumit0k/0) 	| [You can create an issue <br> on my personal repo to ask me anything.](https://github.com/sumit0k/sumit0k/issues/new) <br> ![GitHub issues](https://img.shields.io/github/issues/sumit0k/sumit0k?label=questions) ![GitHub closed issues](https://img.shields.io/github/issues-closed/sumit0k/sumit0k?label=questions) 	|
 
 ## I have worked with
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,17 +22,17 @@
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 ## Support
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/sumitkumar1209) and add to my knowledge! 
+👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/sumit0k) and add to my knowledge! 
 
-<a href="https://www.buymeacoffee.com/sumitkumar1209" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Book" height="40" ></a>
+<a href="https://www.buymeacoffee.com/sumit0k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Book" height="40" ></a>
 
 ## Stats
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitkumar1209&count_private=true&show_icons=true&theme=dracula" alt="sumitkumar1209"/>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sumitkumar1209&count_private=true&theme=dracula" alt="sumitkumar1209"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sumit0k&count_private=true&show_icons=true&theme=dracula" alt="sumit0k"/>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sumit0k&count_private=true&theme=dracula" alt="sumit0k"/>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar1209&theme=dracula&hide_langs_below=1" /></br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=sumitkumar1209&theme=dracula&row=2&column=4">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit0k&theme=dracula&hide_langs_below=1" /></br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sumit0k&theme=dracula&row=2&column=4">
 
 
 
