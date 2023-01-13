@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sumit0k?style=social)](https://twitter.com/sumit0k) 
 [![GitHub followers](https://img.shields.io/github/followers/sumit0k?style=social)](https://github.com/sumit0k) 
 [![Linkedin: Sumit Kumar](https://img.shields.io/badge/-Sumit%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit0k/)](https://www.linkedin.com/in/sumit0k/)
- [![Visits Badge](https://badges.pufler.dev/visits/sumit0k/sumit0k)](https://github.com/sumit0k) 
+[![Visits Badge](https://komarev.com/ghpvc/?username=sumit0k)](https://github.com/sumit0k)
 
 ### Find me at
 
