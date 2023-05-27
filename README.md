@@ -10,7 +10,7 @@
 
 | [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4453633/sumit-kumar) | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://sumit0k.medium.com/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit0k) |
 |-|-|-|
-| <a href="https://stackoverflow.com/users/4453633/sumit-kumar"><img src="https://stackexchange.com/users/flair/5624897.png" width="256" height="58" alt="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 	| [![Sumit Kumar's Medium](https://github-readme-medium-recent-article.vercel.app/medium/@sumit0k/0)](https://github-readme-medium-recent-article.vercel.app/medium/@sumit0k/0) 	| [You can create an issue <br> on my personal repo to ask me anything.](https://github.com/sumit0k/sumit0k/issues/new) <br> ![GitHub issues](https://img.shields.io/github/issues/sumit0k/sumit0k?label=questions) ![GitHub closed issues](https://img.shields.io/github/issues-closed/sumit0k/sumit0k?label=questions) 	|
+| <a href="https://stackoverflow.com/users/4453633/sumit-kumar"><img src="https://stackexchange.com/users/flair/5624897.png" width="256" height="58" alt="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sumit Kumar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 	| [![Sumit Kumar's Medium](https://github-readme-medium-recent-article.vercel.app/medium/@sumit0k/0)](https://github-readme-medium-recent-article.vercel.app/medium/@sumit0k/0) 	| [You can ask me anything <br> on my personal repo's discussions.](https://github.com/sumit0k/sumit0k/discussions/new?category=q-a) <br> ![GitHub Discussions](https://img.shields.io/github/discussions/sumit0k/sumit0k)	|
 
 ## I have worked with
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -34,7 +34,7 @@
 <a href="https://www.buymeacoffee.com/sumit0k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Book" height="40" ></a>
 
 ## Stats
-<img align="left" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sumit0k&count_private=true&show_icons=true&theme=dracula" alt="sumit0k"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sumit0k&count_private=true&show_icons=true&theme=dracula" alt="sumit0k"/>
 
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sumit0k&count_private=true&theme=dracula" alt="sumit0k"/>
 
